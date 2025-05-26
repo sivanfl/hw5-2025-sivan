@@ -1,8 +1,8 @@
 # Homework Assignment #5
 
-## Date: 29-07-24
+## Date: 26-05-25
 
-## Due date: 12-08-24, 23:59
+## Due date: 09-06-25, 15:00
 
 **Do not change the signature (definition) of the functions in the exercise.**
 
